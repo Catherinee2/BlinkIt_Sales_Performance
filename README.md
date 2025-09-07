@@ -25,6 +25,7 @@ To enable deep-dive analysis and departmental-level decision-making, several cha
 
 ## Data Source & Description
 The project utilized a single Excel file from kaggle [Blinkit Grocery Data on Kaggle](https://www.kaggle.com/datasets/arunkumaroraon/blinkit-grocery-dataset)
+
 - **Rows:** Approximately 8,500 rows (8,523 after header removal)  
 - **Columns:** 12 fields  
 
